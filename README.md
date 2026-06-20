@@ -19,7 +19,6 @@ const mustapha = {
   role:      "Étudiant Ingénieur - Génie Logiciel (ASEDS)",
   school:    "INPT Rabat",
   location:  "Agadir → Rabat, Maroc 🇲🇦",
-  seeking:   "Stage d'été à partir de Juin 2026",
   interests: ["Full-Stack Dev", "Data Architecture", "Algorithmes d'optimisation"]
 };
 ```
