@@ -94,5 +94,5 @@ const mustapha = {
 ---
 
 <div align="center">
-<sub>Ouvert aux opportunités de stage · Disponible à partir de Juin 2026</sub>
+<!--<sub>Ouvert aux opportunités de stage · Disponible à partir de Juin 2026</sub> -->
 </div>
