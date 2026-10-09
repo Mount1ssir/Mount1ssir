@@ -86,12 +86,6 @@ const mustapha = {
 
 ---
 
-## 🤝 Engagement
-
-- Membre actif du **Club Informatique CIT-INPT**
-- Programmation compétitive & veille technologique
-
----
 
 <div align="center">
 <!--<sub>Ouvert aux opportunités de stage · Disponible à partir de Juin 2026</sub> -->
