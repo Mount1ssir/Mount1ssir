@@ -12,19 +12,6 @@
 
 ---
 
-## 👋 À Propos
-
-```js
-const mustapha = {
-  role:      "Étudiant Ingénieur - Génie Logiciel (ASEDS)",
-  school:    "INPT Rabat",
-  location:  "Agadir → Rabat, Maroc 🇲🇦",
-  interests: ["Full-Stack Dev", "Data Architecture", "Algorithmes d'optimisation"]
-};
-```
-
----
-
 ## 🛠️ Technologies & Outils
 
 <div align="center">
